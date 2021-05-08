@@ -10,6 +10,7 @@ public class AutomateTestPDFs {
 		System.out.println("Hello");
 		System.out.println("Hello World");
 		System.out.println("Hello There!");
+		System.out.println("Hey");
 
 	}
 
